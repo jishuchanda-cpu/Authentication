@@ -1,4 +1,4 @@
-# 🌈 Rangeen – MERN Authentication & Role-Based Access System
+# 🌈 Rangeen – MERN Authentication & Using AI
 
 A full-stack **MERN authentication project** with a premium UI, role-based access (User/Admin), protected routes, and dashboard user management.
 
